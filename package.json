@@ -1,0 +1,9 @@
+{
+  "name": "drupal_admin_menu_fix",
+  "title": "Drupal admin_menu fix",
+  "id": "jid1-AEVFg5IpN75idw",
+  "description": "Due to bug #2360249 in admin_menu grand child items are not visible in FIrefox 34+. This plugin implements a fix until the module has been patched.",
+  "author": "Patrick van Efferen",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
